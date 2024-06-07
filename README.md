@@ -4,7 +4,7 @@
 Bug:
 
  Scene of the game will be always set on the pause on the start of the game. 
- This bug exist only in editor. Need every time manualy Run game by the "Play" button. 
+ This bug exist only in editor. Need every time manualy Run the game by the "Play" button. 
  In the build this bug does  not exist.
 
 Fixing second bug with manual transmition:
