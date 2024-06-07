@@ -1,5 +1,11 @@
 # rgkunity22
  racing game kit
+ 
+Bug:
+
+ Scene of the game will be always set on the pause on the start of the game. 
+ This bug exist only in editor. Need every time manualy Run game by the "Play" button. 
+ In the build this bug does  not exist.
 
  Add two button in UI
  
