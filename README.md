@@ -1,7 +1,7 @@
 # rgkunity22
  racing game kit
  
-Bug:
+First Bug:
 
  Scene of the game will be always set on the pause on the start of the game. 
  This bug exist only in editor. Need every time manualy Run the game by the "Play" button. 
