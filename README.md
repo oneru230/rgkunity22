@@ -46,4 +46,14 @@ line 152: paste new method
             pausemenu.enabled = true;
             m_RaceManager.enabled = true;
         }
-        
+
+Next Steps:
+
+Turn of object "_RaceManager" in the scene
+
+Turn of script "RGKUI_PauseMenu.cs" or PauseMenuUI (in Editor) located on the object "UI_INGAME".
+
+Script "RGKUI_PauseMenu.cs": new variable gameObject "O RaceManager" set object "_RaceManager"
+
+
+
