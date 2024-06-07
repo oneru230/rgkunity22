@@ -10,7 +10,7 @@ First Bug:
 Fixing second bug with manual transmition:
 
 When manual transmition setup, You will see the luck of speed, becouse will be work
-only first manual transmition. You can change transmition by the keys F,V. 
+only first manual transmition. You can manualy change transmition by the keys F,V. 
 Its enable to increase or decrease speed by this keys. Need to setup normal auto transmition.
 
  Add two button in UI:
