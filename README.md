@@ -47,6 +47,8 @@ line 62:
         public Race_Manager m_RaceManager;
         
         public RGKUI_PauseMenu pausemenu;
+
+         //private Race_Manager m_RaceManager;
         
 line 152: paste new method
 
