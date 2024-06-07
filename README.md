@@ -7,7 +7,12 @@ Bug:
  This bug exist only in editor. Need every time manualy Run game by the "Play" button. 
  In the build this bug does  not exist.
 
- Add two button in UI
+Fixing second bug with manual transmition:
+
+(When manual transmition setup, You can change transmition by the keys F,V. 
+Its enable to increase or decrease speed by this keys )
+
+ Add two button in UI:
  
 ![15](https://github.com/oneru230/rgkunity22/assets/171971032/9216983c-4017-4835-afb7-e306a96f4004)
 
