@@ -49,11 +49,23 @@ line 152: paste new method
 
 Next Steps:
 
-Turn of object "_RaceManager" in the scene
+1. Turn of script "RaceManager" located on the game object "_RaceManager"
 
-Turn of script "RGKUI_PauseMenu.cs" or PauseMenuUI (in Editor) located on the object "UI_INGAME".
+2. Turn of game object "_RaceManager" in the scene
 
-Script "RGKUI_PauseMenu.cs": new variable gameObject "O RaceManager" set object "_RaceManager"
+3. Turn of script "RGKUI_PauseMenu.cs" or PauseMenuUI (in Editor) located on the object "UI_INGAME".
+
+4. Script "RGKUI_PauseMenu.cs":
+
+   In the new variable gameObject "O RaceManager" set game object "_RaceManager"
+
+5. Script "RGKUI.cs": 
+
+   In the new variable "m_RaceManager" set script "Race_Manager.cs" (from the same game object)
+
+   In the new variable "pausemenu" set script "RGKUI_PauseMenu.cs" from the game object "UI_INGAME"
+
+
 
 
 
