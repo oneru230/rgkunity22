@@ -79,7 +79,15 @@ Next Steps:
 
    In the new variable "pausemenu" set script "RGKUI_PauseMenu.cs" from the game object "UI_INGAME"
 
-6. On the start of the game, firstly need to press right button (Race Manager), then left button (Button) and game will start with Auto transmition. Its only demo of working method of fixing bug with manual transmition. Next step - need to delete UI buttons and run this methods on the start game by the scripts. 
+6. On the start of the game, firstly need to press right button (Race Manager), then left button (Button) and game will start with Auto transmition. Its only demo of working method of fixing bug with manual transmition. Next step - need to delete UI buttons and run this methods on the start game by the scripts.
+
+IMPORTENT!!!
+
+Algorythom of making waypoints and Finish:
+
+Firstly make all waypoints and on the last waypoint set the _FinishPoint
+
+Only this subsequence will be work!
 
 
 
