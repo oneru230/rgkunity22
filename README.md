@@ -81,9 +81,9 @@ Next Steps:
 
 6. On the start of the game, firstly need to press right button (Race Manager), then left button (Button) and game will start with Auto transmition. Its only demo of working method of fixing bug with manual transmition. Next step - need to delete UI buttons and run this methods on the start game by the scripts.
 
-IMPORTENT!!!
+IMPORTANT!!!
 
-Algorythom of making waypoints and Finish:
+Algorythom of making Waypoints and Finish:
 
 Firstly make all waypoints and on the last waypoint set the _FinishPoint
 
