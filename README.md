@@ -90,6 +90,7 @@ Firstly make all waypoints and on the last waypoint set the _FinishPoint
 Only this subsequence will be work!
 
 You cant use the old game object "_FinishPoint", only new created on the last waypoint.
+(It all created from Editor menu)
 
 
 
